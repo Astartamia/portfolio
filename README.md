@@ -1,5 +1,4 @@
 ## Екшибарова Людмила
-![photo_2023-11-13_12-01-54](https://github.com/Astartamia/portfolio/assets/143486733/c5f6946a-1540-4eaa-979f-0cb8cf23b91b)
 <img src="https://github.com/Astartamia/portfolio/assets/143486733/c5f6946a-1540-4eaa-979f-0cb8cf23b91b"  width="200"/>
 
 * Обучаюсь в Нетологии на специальности "Инженер по тестированию: с нуля до middle" с августа 2023г по ноябрь 2024г.
